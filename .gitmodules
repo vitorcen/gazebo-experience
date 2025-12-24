@@ -1,0 +1,4 @@
+[submodule "gz-sim"]
+	path = gz-sim
+	url = https://github.com/gazebosim/gz-sim.git
+	branch = main
